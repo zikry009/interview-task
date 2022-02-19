@@ -33,9 +33,6 @@ Here is the full problem statement link https://brick-trowel-748.notion.site/Int
         - Bonus points if user can switch between **AND** & **OR** filter type
     - Filters should be clearable, I can clear any filter
     
-# Solution Implement Summary
-
-I have created create
 
 
 # Installation
