@@ -32,8 +32,9 @@ Here is the full problem statement link https://brick-trowel-748.notion.site/Int
     - User can apply multiple filters, all filters will be applied with **AND** condition
         - Bonus points if user can switch between **AND** & **OR** filter type
     - Filters should be clearable, I can clear any filter
-    
 
+# Solution Implement Summary
+  I have try to cover all things in the problem statements along with the bonuses with best to my knowledge.
 
 # Installation
 
